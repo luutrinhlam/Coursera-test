@@ -1,0 +1,10 @@
+Twitter bootstrap - one of ost CSS frameworks - made by engineers at Twitter 
+
+the most popular: HTML, CSS, and JS framework for developing responseive, mobile first projects on the web - most popular project on Github
+-mostly CSS classes
+-code your moblie first or destop : plan moblie from the start (mobile first)
+
+Disadvantages:
+-Too big, too bloated
+	+ a lot of feature not gonna be used
+	+ can write your own library -> take time
