@@ -18,17 +18,16 @@ h1 {
 }
 
 section {
-	position: relative;
+	/*position: relative;*/
 	padding: 20px;
 	margin-right: auto;
 	margin-left: auto;
 }
 p{
 	position: relative;
-	padding: 40px 3px 3px 10px ;
+	padding: 40px 10px 15px 20px ;
 	border: 1px solid black;
 	background: #999999;
-
 }
 .tittle {
 	position: absolute;
@@ -41,7 +40,6 @@ p{
 
 	border-bottom: 1px solid black;
 	border-left: 1px solid black;
-
 	font-weight: 1000;
 	color: #0C0603;
 
